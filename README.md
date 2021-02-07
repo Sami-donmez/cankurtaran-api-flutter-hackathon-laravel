@@ -1,4 +1,5 @@
-[url=https://hizliresim.com/UWy5hI][img]https://i.hizliresim.com/UWy5hI.png[/img][/url]
+![alt text](https://i.hizliresim.com/UWy5hI.png)
+
 
 ## Cankurtaran
 
